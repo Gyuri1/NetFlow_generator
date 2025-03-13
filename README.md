@@ -5,5 +5,5 @@ This python script shows how to generate NetFlow traffic towards NetFlow Collect
 
 Please update the Flow Collector IP address and port according to your installation!
 
-Default RDP port is 2055.
+Default UDP port is 2055.
 
