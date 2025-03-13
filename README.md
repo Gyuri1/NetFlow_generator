@@ -3,7 +3,7 @@
 
 This python script shows how to generate NetFlow traffic towards NetFlow Collector, like Secure Network Analytics.
 
-Please update the Flow Collector IP address and port according to your installation!
+Please update the Flow Collector's IP address and port according to your installation!
 
-Default UDP port is 2055.
+The default UDP port is 2055.
 
